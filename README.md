@@ -1,5 +1,5 @@
 # AI and Data Science Workshop with Python 
-## Week 1 : We cover the following concepts in Week 1
+## Week 1 : We cover the following concepts during the first week of our workshop
 * Course Description
 * Why Python Programming
 * Github
