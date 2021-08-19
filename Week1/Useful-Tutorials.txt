@@ -1,0 +1,12 @@
+Useful Tutorials
+
+Google Colab Tutorials:
+1. https://www.youtube.com/watch?v=RLYoEyIHL6A
+2. https://www.youtube.com/watch?v=AdEG8zwA45Y
+
+Python Functions
+1. https://www.datacamp.com/community/tutorials/functions-python-tutorial
+
+Github
+1. https://www.youtube.com/watch?v=iv8rSLsi1xo
+2. https://www.youtube.com/watch?v=w3jLJU7DT5E
