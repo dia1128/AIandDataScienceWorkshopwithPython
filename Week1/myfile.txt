@@ -1,0 +1,2 @@
+I am learning Python programming.
+Python is an interesting language.
