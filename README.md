@@ -24,3 +24,18 @@
 * Tuples
 * Dictionaries
 * Methods
+
+## Week 2 : We cover the following concepts during the first week of our workshop
+* What is NumPY
+* NumPy Array Operations
+* Mathematical Functions for NumPY
+* Array Manipulation
+* Data Acquisition
+* Basic Insight of Data with Pandas
+* Dealing with Missing Values with Pandas
+* Introduction to Matplotlib
+* Line Chart
+* Scatter Plot
+* Bar Chart
+* Histogram
+* Pie Chart
